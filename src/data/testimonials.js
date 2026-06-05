@@ -1,0 +1,42 @@
+export const testimonials = [
+  {
+    id: 1,
+    name: 'Valentina & Martín',
+    event: 'Casamiento',
+    rating: 5,
+    quote: 'La Juana transformó nuestro sueño en realidad. Cada detalle fue cuidado con una dedicación increíble. Nuestros invitados todavía hablan del salón y la atención. ¡Eternamente agradecidos!',
+    initials: 'VM',
+  },
+  {
+    id: 2,
+    name: 'Sofía Romero',
+    event: 'Cumpleaños de 15',
+    rating: 5,
+    quote: 'Mi fiesta de 15 fue absolutamente mágica. El equipo de La Juana superó todas mis expectativas. La decoración, la música, la comida... todo fue perfecto. Fue la noche más hermosa de mi vida.',
+    initials: 'SR',
+  },
+  {
+    id: 3,
+    name: 'TechMendoza S.A.',
+    event: 'Evento Corporativo',
+    rating: 5,
+    quote: 'Organizamos nuestro lanzamiento anual en la Sala Privada. Un espacio moderno y equipado a la perfección. La coordinación fue impecable y nuestros clientes quedaron muy impresionados.',
+    initials: 'TM',
+  },
+  {
+    id: 4,
+    name: 'Carolina & Diego',
+    event: 'Aniversario de Bodas',
+    rating: 5,
+    quote: 'Festejamos 25 años juntos en La Juana y fue simplemente maravilloso. El jardín decorado de noche es algo que no olvidaremos jamás. El personal es amable y muy profesional.',
+    initials: 'CD',
+  },
+  {
+    id: 5,
+    name: 'Lucía Fernández',
+    event: 'Baby Shower',
+    rating: 5,
+    quote: 'Elegí La Juana para mi baby shower y fue la mejor decisión. El espacio se adaptó perfectamente a la temática que pedí. Cálido, elegante y muy cómodo para todos los invitados.',
+    initials: 'LF',
+  },
+]

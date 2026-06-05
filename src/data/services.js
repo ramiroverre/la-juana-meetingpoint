@@ -1,0 +1,38 @@
+export const services = [
+  {
+    id: 1,
+    name: 'Salón Principal',
+    capacity: 200,
+    description: 'Nuestro espacio estrella, luminoso y versátil. Ideal para casamientos, galas y grandes celebraciones con ambientación personalizada.',
+    features: ['Pista de baile', 'Iluminación LED', 'Sonido profesional', 'Proyector 4K'],
+    image: 'https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&q=80',
+    tag: 'Más popular',
+  },
+  {
+    id: 2,
+    name: 'Terraza',
+    capacity: 80,
+    description: 'Un espacio al aire libre con vista a las sierras de Mendoza. Perfecto para cócteles, after-parties y eventos íntimos bajo las estrellas.',
+    features: ['Vista panorámica', 'Toldo retráctil', 'Calefacción exterior', 'Bar integrado'],
+    image: 'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&q=80',
+    tag: 'Al aire libre',
+  },
+  {
+    id: 3,
+    name: 'Sala Privada',
+    capacity: 30,
+    description: 'Ambiente exclusivo y acogedor para reuniones corporativas, presentaciones de negocios y celebraciones íntimas.',
+    features: ['Pantalla Smart TV', 'Pizarrón digital', 'Servicio de catering', 'Wi-Fi empresarial'],
+    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80',
+    tag: 'Corporativo',
+  },
+  {
+    id: 4,
+    name: 'Jardín',
+    capacity: 120,
+    description: 'Un jardín exuberante rodeado de vegetación mendocina. El escenario natural soñado para ceremonias civiles y sesiones fotográficas.',
+    features: ['Carpa opcional', 'Iluminación ambiental', 'Sector verde', 'Acceso independiente'],
+    image: 'https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&q=80',
+    tag: 'Ceremonias',
+  },
+]
